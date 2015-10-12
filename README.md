@@ -2,7 +2,7 @@
 
 #### N.B.: I am still editing the files and notes to make them more readible. It's a bit messy at the moment.
 
-Project Luther is the second project in the [Metis](www.thisismetis.com) syllabus. I presented the project to the class on Friday, October 9, 2015.
+Project Luther is the second project in the [Metis](https://www.thisismetis.com) syllabus. I presented the project to the class on Friday, October 9, 2015.
 
 ### Goals of the project
 - Linear Regression
