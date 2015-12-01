@@ -4,6 +4,8 @@
 
 Project Luther is the second project in the [Metis](http://www.thisismetis.com) syllabus. I presented the project to the class on Friday, October 9, 2015.
 
+Link to the class [presentation](https://docs.google.com/presentation/d/1j-MjZltZO3Ya5unOiEAS_nyYY8cx_qLZHasyqpiwWcA/edit?usp=sharing).
+
 ### Goals of the project
 - Linear Regression
 - Webscraping
